@@ -1,3 +1,4 @@
+27.11.48.30:8005
 traefik.it5000.com:8000
 chx.it5000.com:8000
 bitvsn.72.web.it5000.com:8000
