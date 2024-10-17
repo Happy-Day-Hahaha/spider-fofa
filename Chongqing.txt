@@ -1,3 +1,12 @@
+traefik.it5000.com:8000
+chx.it5000.com:8000
+bitvsn.72.web.it5000.com:8000
+jxzkw97.t.it5000.com:8000
+ihoujkvo.t.it5000.com:8000
+bxzkdctj.72.web.it5000.com:8000
+113.251.179.178:6666
+spug.it5000.com:8000
+not-exists-dns.it5000.com:8000
 27.11.253.29:8004
 106.86.155.164:20002
 27.9.199.105:8005
