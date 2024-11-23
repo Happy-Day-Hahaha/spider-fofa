@@ -1,3 +1,13 @@
+xya.poxi1221.eu.org:8082
+emby.poxi1221.eu.org:8082
+op.poxi1221.eu.org:8082
+debian.poxi1221.eu.org:8082
+tv.poxi1221.eu.org:8082
+gbox.poxi1221.eu.org:8082
+mu.poxi1221.eu.org:8082
+qhnas.poxi1221.eu.org:8082
+ik.poxi1221.eu.org:8082
+1.70.33.204:8085
 171.119.207.125:6001
 180.136.43.184:9300
 58.19.240.11:888
