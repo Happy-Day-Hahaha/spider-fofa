@@ -1,3 +1,9 @@
+hebdx.chunfengyun.top:4022
+175.163.238.150:4000
+118.125.30.58:4022
+116.26.37.138:4022
+1.85.226.119:8686
+dalubeijing.chunfengyun.top:8888
 xya.poxi1221.eu.org:8082
 emby.poxi1221.eu.org:8082
 op.poxi1221.eu.org:8082
